@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<pais>
+	<nome>Brasil</nome>
+	<idioma>Portugues</idioma>
+	<religiao>evangelica</religiao>
+	<moeda>Real R$</moeda>
+	<populacao>700 milhoes</populacao>
+	<geografia>
+		<clima>frio</clima>
+		<costa>costa 7891 KM</costa>
+		<pico>Neblina (912 m)</pico>
+	</geografia>
+	<estados>
+		<nome>Rio de janeiro</nome>
+	    <nome>São Paulo</nome>
+	    <nome>Pernanbuco</nome>
+	    <nome>Minas gerais</nome>
+	    <nome>Sergipe</nome>
+	</estados>
+<presidente>seu madruga</presidente><presidente>seu madruga</presidente><capital>brasilia</capital></pais>
